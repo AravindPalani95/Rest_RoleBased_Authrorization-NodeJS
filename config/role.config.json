@@ -1,0 +1,10 @@
+[
+    {
+        "url" : "/addUser",
+        "role" : ["admin","superuser"]
+    },
+    {
+        "url" : "/deleteUser",
+        "role" : ["admin"]
+    }
+]
